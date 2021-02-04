@@ -22,3 +22,6 @@ source_downloads
 .idea/
 
 cmake-build-debug/
+
+# third party
+third_party/
